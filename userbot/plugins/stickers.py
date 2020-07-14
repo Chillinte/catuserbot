@@ -29,6 +29,9 @@ KANGING_STR = [
     "Roses are red violets are blue, kanging this sticker so my pacc looks cool",
     "Imprisoning this sticker...",
     "Mr.Steal Your Sticker is stealing this sticker... ",
+    "Kang initiated, please wait...",
+    "Totally not kanging your sticker at the moment...",
+    "yes this is gei am sorry but lemme kang",
 ]
 
 
